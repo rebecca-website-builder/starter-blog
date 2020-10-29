@@ -5,7 +5,7 @@ image: /images/meeps.jpg
 tags: []
 draft: false
 ---
-***Princess Rebecca is a girl who lives in Galway and has a cat called meeps for a helper.*** 
+***Rebecca is a girl who lives in Galway and has a cat called meeps for a helper.*** 
 
 ***He is veary good at hunting and he is cute too.***
 
